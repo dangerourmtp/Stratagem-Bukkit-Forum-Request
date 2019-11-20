@@ -11,3 +11,6 @@ Commands:
   - /stratagem clear: Clears some entities (FALLING_BLOCK, WITHER_SKULL, SHULKER_BULLET, SMALL_FIREBALL, FIREBALL, EVOKER_FANGS & LLAMA_SPIT).
   - /stratagem nospawn {Time in minutes}: Disables mobs spawning for some reasons (CHUNK_GEN,CUSTOM,DEFAULT, DROWNED, NATURAL,REINFORCEMENTS,SILVERFISH_BLOCK,SLIME_SPLIT,SPAWNER,VILLAGE_INVASION) for X minutes.
   - /stratagem noai {Time in minutes}: Disables mob ai for X minutes.
+
+Permissions:
+  - Only console and OPs can use the /stratagem command.

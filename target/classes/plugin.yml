@@ -1,0 +1,10 @@
+name: Stratagem
+version: 0.1
+main: me.dangerourmtp.stratagem.Stratagem
+api-version: 1.13
+prefix: Stratagem
+authors: [DangerourMtp]
+description: Cleans FALLING_BLOCK, WITHER_SKULL, SHULKER_BULLET, SMALL_FIREBALL, FIREBALL, EVOKER_FANGS, LLAMA_SPIT entities
+commands:
+  stratagem:
+    description: Do /stratagem for further help

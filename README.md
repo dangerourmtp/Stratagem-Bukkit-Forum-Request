@@ -4,7 +4,7 @@ This plugin was requested in the bukkit forum (https://bukkit.org/threads/strata
 This plugin:
   - Clears FALLING_BLOCK, WITHER_SKULL, SHULKER_BULLET, SMALL_FIREBALL, FIREBALL, EVOKER_FANGS & LLAMA_SPIT.
   - Disables spawning of all kinds of creatures (water creatures, mobs, animals, passives, etc) for X minutes for some spawn reasons (CHUNK_GEN,CUSTOM,DEFAULT, DROWNED, NATURAL,REINFORCEMENTS,SILVERFISH_BLOCK,SLIME_SPLIT,SPAWNER,VILLAGE_INVASION).
-  - A command that disables all creatures AI for X minutes.
+  - Disables all creatures AI for X minutes.
 
 Commands:
   - /stratagem [help]: Displays in game help.
